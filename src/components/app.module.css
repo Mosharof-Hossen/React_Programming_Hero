@@ -1,0 +1,13 @@
+.button {
+    padding:  10px;
+    background-color: cyan;
+
+}
+.header {
+    background-color: blue;
+    padding: 10px;
+}
+.input{
+    padding: 10px;
+    margin-right: 10px;
+}
