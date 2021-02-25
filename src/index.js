@@ -6,6 +6,7 @@ import MyfunctionalComponent from './components/functionalApp';
 import Profile from "./components/profile/index"
 import StateApp from './components/stateApp';
 import Timer from "./components/timer"
+import "bootstrap/dist/css/bootstrap.css"
 
 ReactDOM.render(
   <React.StrictMode>
